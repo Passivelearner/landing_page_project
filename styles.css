@@ -162,3 +162,40 @@ a {
     color: #1f2937;
     font-weight: bold;
 }
+
+/*Action box*/
+
+.action-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 64px;
+}
+
+.action-box{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 32px;
+    background-color: #3882F6;
+    border-radius: 4px;
+    width: 70%;
+}
+
+.text{
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+}
+
+.action-textBold{
+    font-size: 24px;
+    font-weight: bold;
+    color:#E5E7EB;
+}
+
+.action-textlight{
+    font-size: 14px;
+    font-weight: lighter;
+    color:#E5E7EB;
+}
