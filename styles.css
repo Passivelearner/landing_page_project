@@ -199,3 +199,12 @@ a {
     font-weight: lighter;
     color:#E5E7EB;
 }
+
+.footer {
+    background-color: #1f2937;
+    padding: 32px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color:#E5E7EB
+}
