@@ -208,3 +208,10 @@ a {
     justify-content: center;
     color:#E5E7EB
 }
+
+.img-box{
+    background-image: url('./images/rolex.jpg');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
